@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="storagedrawersvt"
+version="1.0.0"
+displayName="Storage Drawers Visual Tweaks"
+description='''Visual tweaks for Storage Drawers: renders drawer front items as 3D items like vanilla item frames, instead of flat sprites. Addon for StorageDrawers (Forge 1.20.1).'''
+
+[[dependencies.storagedrawersvt]]
+modId="minecraft"
+type="required"
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+mandatory=true
+
+[[dependencies.storagedrawersvt]]
+modId="forge"
+type="required"
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+mandatory=true
+
+[[dependencies.storagedrawersvt]]
+modId="storagedrawers"
+type="required"
+versionRange="[12.11.4,13)"
+ordering="NONE"
+side="BOTH"
+mandatory=true

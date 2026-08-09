@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.grakepch.storagedrawersvt.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "storagedrawersvt.refmap.json",
+  "client": [
+    "BlockEntityDrawersRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

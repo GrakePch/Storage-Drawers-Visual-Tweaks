@@ -1,0 +1,24 @@
+# Gradle
+build/
+.gradle/
+run/
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Third-party dependency jars (Storage Drawers etc.)
+libs/*.jar
