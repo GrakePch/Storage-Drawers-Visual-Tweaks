@@ -11,7 +11,7 @@ Storage Drawers 附属 mod：把抽屉正面展示的方块/物品从“平面�
 ## 安装
 
 1. 确认 mods 文件夹里已有 `StorageDrawers-forge-1.20.1-12.14.3.jar`
-2. 把 `storagedrawers-visual-tweaks-1.0.0.jar` 放进 mods 文件夹
+2. 把 `storagedrawers-visual-tweaks-0.1.0.jar` 放进 mods 文件夹
 3. 启动游戏
 
 > 从源码构建需要 Storage Drawers 的 jar 放在 `libs/`（已 gitignore，需自行从 CurseForge 下载）。
@@ -43,7 +43,7 @@ src/main/resources/
 ```bash
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 ./gradlew build --no-daemon
-# 产物：build/libs/storagedrawers-visual-tweaks-1.0.0.jar
+# 产物：build/libs/storagedrawers-visual-tweaks-0.1.0.jar
 ```
 
 ## 许可证

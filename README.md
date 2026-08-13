@@ -13,7 +13,7 @@ A visual tweaks addon for Storage Drawers: renders the items/blocks shown on dra
 ## Installation
 
 1. Make sure `StorageDrawers-forge-1.20.1-12.14.3.jar` is already in your mods folder.
-2. Put `storagedrawers-visual-tweaks-1.0.0.jar` into the mods folder.
+2. Put `storagedrawers-visual-tweaks-0.1.0.jar` into the mods folder.
 3. Launch the game.
 
 > Building from source requires the Storage Drawers jar in `libs/` (gitignored — download it from CurseForge yourself).
@@ -46,7 +46,7 @@ src/main/resources/
 ```bash
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 ./gradlew build --no-daemon
-# Output: build/libs/storagedrawers-visual-tweaks-1.0.0.jar
+# Output: build/libs/storagedrawers-visual-tweaks-0.1.0.jar
 ```
 
 ## License

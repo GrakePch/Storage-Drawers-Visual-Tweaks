@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="storagedrawersvt"
-version="1.0.0"
+version="0.1.0"
 displayName="Storage Drawers Visual Tweaks"
 description='''Visual tweaks for Storage Drawers: renders drawer front items as 3D items like vanilla item frames, instead of flat sprites. Addon for StorageDrawers (Forge 1.20.1).'''
 
